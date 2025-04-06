@@ -6,9 +6,17 @@
     "dev": "npx shadow-cljs watch app portfolio",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evedes/clojure-replicant-tictactoe.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evedes/clojure-replicant-tictactoe/issues"
+  },
+  "homepage": "https://github.com/evedes/clojure-replicant-tictactoe#readme",
   "description": "",
   "dependencies": {
     "shadow-cljs": "^2.28.22",
